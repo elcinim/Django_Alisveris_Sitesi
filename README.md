@@ -70,6 +70,9 @@ Gerekli bilgileri doldurarak kart ödemenizi gerçekleştirin.
 
 
 Ekran Görüntüleri
+![Uploading anaEkran.png…]()
+
+
 
 
 
