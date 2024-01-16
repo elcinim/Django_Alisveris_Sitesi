@@ -70,8 +70,10 @@ Gerekli bilgileri doldurarak kart ödemenizi gerçekleştirin.
 
 
 Ekran Görüntüleri
+![Uploading anaEkran.png…]()
 
-![Ekran Görüntüsü (113)](https://github.com/elcinim/Django_Alisveris_Sitesi/assets/148655453/a4ff2d39-0156-4501-a40d-cff616405b12)
+
+
 
 
 
