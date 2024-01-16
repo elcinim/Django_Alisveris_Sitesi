@@ -22,13 +22,15 @@ Bu projede kullanıcılar, üye girişi yaparak alışveriş sitesine erişebili
    Projenin ana dizininde bir sanal ortam oluşturun:
    ```bash
    python -m venv myenv
-Sanal ortam aktivasyonu için:
+Sanal ortam aktivasyonu için(Windows için):
 myenv\Scripts\activate
+veya (Linux/mac) için:
+source myenv/bin/activate
 
 2.Gerekli Bağımlılıkların Yüklenmesi:
 Projenin bulunduğu dizinde, aşağıdaki komutu kullanarak gerekli Python paketlerini yükleyin:
-
 pip install -r requirements.txt
+
 
 3.Veritabanı Oluşturma:
 Veritabanını oluşturmak ve tabloları oluşturmak için aşağıdaki komutları sırasıyla çalıştırın:
@@ -37,16 +39,22 @@ python manage.py makemigrations
 python manage.py migrate
 
 
-4.Projeyi Çalıştırma:Projenizi aşağıdaki komutla başlatın:
+
+4.Projeyi Çalıştırma:
+Projenizi aşağıdaki komutla başlatın:
+
 python manage.py runserver
 
-5.arayıcıda Görüntüleme:
+
+
+
+5.Tarayıcıda Görüntüleme:
 Tarayıcınızdan http://127.0.0.1:8000/ adresine giderek projenizi görüntüleyebilirsiniz.
 
 
 
 
-Kullanım
+KULLANIM
 1.Üye Girişi:
 Sitenin sağ üst köşesindeki "Giriş Yap" veya "Kayıt Ol" seçenekleriyle üye girişi yapın.
 
@@ -70,6 +78,7 @@ Gerekli bilgileri doldurarak kart ödemenizi gerçekleştirin.
 
 
 EKRAN GÖRÜNTÜLERİ 
+
 
 ANA EKRAN:
 ![anaEkran](https://github.com/elcinim/Django_Alisveris_Sitesi/assets/148655453/d4637177-fe05-42db-a318-3db08695a380)
