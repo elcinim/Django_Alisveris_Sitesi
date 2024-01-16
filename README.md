@@ -25,14 +25,19 @@ Bu projede kullanıcılar, üye girişi yaparak alışveriş sitesine erişebili
 Sanal ortam aktivasyonu için(Windows için):
 myenv\Scripts\activate
 veya (Linux/mac) için:
+
 source myenv/bin/activate
 
-2.Gerekli Bağımlılıkların Yüklenmesi:
+
+
+2.Gerekli Bağımlılıkların Yüklenmesi:  
+
 Projenin bulunduğu dizinde, aşağıdaki komutu kullanarak gerekli Python paketlerini yükleyin:
 pip install -r requirements.txt
 
 
 3.Veritabanı Oluşturma:
+
 Veritabanını oluşturmak ve tabloları oluşturmak için aşağıdaki komutları sırasıyla çalıştırın:
 
 python manage.py makemigrations
@@ -40,7 +45,9 @@ python manage.py migrate
 
 
 
+
 4.Projeyi Çalıştırma:
+
 Projenizi aşağıdaki komutla başlatın:
 
 python manage.py runserver
@@ -49,7 +56,9 @@ python manage.py runserver
 
 
 5.Tarayıcıda Görüntüleme:
-Tarayıcınızdan http://127.0.0.1:8000/ adresine giderek projenizi görüntüleyebilirsiniz.
+
+Tarayıcınızdan
+http://127.0.0.1:8000/   adresine giderek projenizi görüntüleyebilirsiniz.
 
 
 
