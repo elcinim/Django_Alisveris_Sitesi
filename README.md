@@ -69,14 +69,37 @@ Gerekli bilgileri doldurarak kart ödemenizi gerçekleştirin.
 Ödeme işlemi başarılı olduğunda alışverişiniz tamamlanmış olacaktır.
 
 
-Ekran Görüntüleri   
+EKRAN GÖRÜNTÜLERİ 
 
 ANA EKRAN:
 ![anaEkran](https://github.com/elcinim/Django_Alisveris_Sitesi/assets/148655453/d4637177-fe05-42db-a318-3db08695a380)
 
+
+
+
+
 ADMİN EKRANI:
 
 ![adminEkranı](https://github.com/elcinim/Django_Alisveris_Sitesi/assets/148655453/e3da32fa-04a2-4d0d-8715-66721f954a0e)
+
+
+
+
+
+
+SİPARİŞ EKRANI:
+
+![siparişEkrani](https://github.com/elcinim/Django_Alisveris_Sitesi/assets/148655453/f93cad11-2593-434b-950b-a819505c84ef)
+
+
+
+
+
+
+KONTROL EKRANI:
+
+![kontrolEkrani](https://github.com/elcinim/Django_Alisveris_Sitesi/assets/148655453/40b35f41-abce-48df-a0d7-391ee049d816) 
+
 
 
 
